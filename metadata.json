@@ -1,0 +1,8 @@
+{
+  "name": "RAJAL PUBLIC SCHOOL RAJALDESAR",
+  "description": "School Management System & RTE Rajasthan Portal for RAJAL PUBLIC SCHOOL RAJALDESAR, Dangiya Bass, Ward No. 14, Rajaldesar, Churu, Rajasthan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
